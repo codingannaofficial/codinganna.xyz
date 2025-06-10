@@ -1,7 +1,7 @@
-title: CodingAnna Blog
-baseurl: "A blog for tutorials and Scripts related to my videos
-"
-url: "https://codinganna.xyz"
+title: CodnGanna Command Blog
+description: A blog for tutorials and Scripts related to  my videos
+baseurl: ""
+url: "https://codnganna.xyz"
 markdown: kramdown
 permalink: /:year/:month/:day/:title
 plugins:

@@ -1,0 +1,8 @@
+title: CodingAnna Blog
+baseurl: "A blog for tutorials and Scripts related to my videos
+"
+url: "https://codinganna.xyz"
+markdown: kramdown
+permalink: /:year/:month/:day/:title
+plugins:
+  - jekyll-feed
